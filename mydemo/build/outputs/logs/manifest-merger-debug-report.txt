@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:4:5-45
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:7:22-68
+application
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:9:5-48:19
+	android:label
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:11:9-41
+	android:isGame
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:10:9-30
+activity#com.daimaqiankun.mydemo.UnityPlayerActivity
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:21:9-36:20
+	android:screenOrientation
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:27:13-51
+	android:process
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:26:13-44
+	android:launchMode
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:25:13-44
+	android:hardwareAccelerated
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:24:13-48
+	android:configChanges
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:23:13-194
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:22:13-48
+meta-data#unityplayer.UnityActivity
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:33:13-35:40
+	android:value
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:35:17-37
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:34:17-57
+meta-data#unity.build-id
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:39:9-41:68
+	android:value
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:40:13-42
+meta-data#unity.splash-mode
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:42:9-44:33
+	android:value
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:44:13-30
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:43:13-45
+meta-data#unity.splash-enable
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:45:9-47:36
+	android:value
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:47:13-33
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:46:13-47
+uses-feature#0x00020000
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:49:5-54
+	android:glEsVersion
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:49:19-51
+uses-permission#android.permission.INTERNET
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:50:5-67
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:50:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:52:5-54:36
+	android:required
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:54:9-33
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:53:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:55:5-57:36
+	android:required
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:57:9-33
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:56:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:58:5-60:36
+	android:required
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:60:9-33
+	android:name
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml:59:9-72
+uses-sdk
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+		ADDED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml
+		INJECTED from D:\jar\MyApplication\mydemo\src\main\AndroidManifest.xml

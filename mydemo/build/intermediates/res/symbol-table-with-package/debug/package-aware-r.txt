@@ -1,0 +1,15 @@
+com.daimaqiankun.mydemo
+int drawable app_banner 0x7f090001
+int id u3d_fullscreen_btn 0x7f0c0001
+int id u3d_layout 0x7f0c0002
+int id zoom_in_btn 0x7f0c0003
+int id zoom_out_btn 0x7f0c0004
+int layout activity_unity 0x7f0f0001
+int mipmap app_icon 0x7f110001
+int mipmap app_icon_round 0x7f110002
+int mipmap ic_launcher_background 0x7f110003
+int mipmap ic_launcher_foreground 0x7f110004
+int string app_name 0x7f150001
+int style BaseUnityTheme 0x7f160001
+int style UnityThemeSelector 0x7f160002
+int style UnityThemeSelector_Translucent 0x7f160003
